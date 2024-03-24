@@ -1,0 +1,28 @@
+Buidling Amazon clone for beginners by Apna College. ( 2nd Navbar Concept.)
+
+Q1. To align all div classes elements into single line.what we have to use?
+Ans:-make or give main container as 
+display:flex;
+
+Q2.How to align all paragraph tags content into single?
+Ans:-display:inline;
+
+Q3.What we have to do so that the content used 70 percent of box?
+Ans:- give Width:70%
+then text should contains 70 percent part and left blank 30 percent part.
+
+Q4.How to Add hover white box?
+Ans:- Simply add border to classname.
+
+Q5. Giving div class="one",div class="two",div class="three"?
+Ans:- div class means we have one separate box and we can access element inside it as we want
+for other div class means other separate box
+
+Q6.how to arrange item horizontally?
+Ans:-justify-content:center;
+
+Q7.how to arrange item vertically?
+Ans:- align-items:center;
+
+Note:- before using justify-content and align-items we have to write display:flex;
+
